@@ -2,7 +2,7 @@ variable "project_name" {
     default = "expense"
 }
 
-variable "enivironment" {
+variable "environment" {
     default = "dev"
 }
 
